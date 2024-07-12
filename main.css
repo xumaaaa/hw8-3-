@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+.ph1{
+    height: 225px;
+    width: 225px;
+    border: 2px solid red;
+    transition: 1s;
+
+    
+    &:hover{
+        height: 325px;
+        width: 325px;
+    }
+}
+
+
+    /* 
+    .ph2{
+        height: 225px;
+        width: 225px;
+        border: 2px solid red;
+        transition: 1s;
+
+        &:hover{
+            height: 325px;
+            width: 325px;
+        }
+
+    } */
